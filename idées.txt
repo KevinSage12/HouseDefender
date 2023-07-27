@@ -1,0 +1,15 @@
+joueur
+maison
+chiens
+femmes
+enfants
+
+murs évolutifs
+pièges
+portes
+biomes
+
+mobs -> tank assassin archer démolisseur heal boss
+focus -> maison ou joueur en fct de la couleur
+
+items donnant hp, shield, 
